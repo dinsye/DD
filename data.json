@@ -1,0 +1,59 @@
+{
+  "version": 1791757814,
+  "updated_at": "2026-10-12T01:30:14",
+  "donors": [
+    {
+      "name": "точно не даблкул",
+      "points": 185,
+      "prizes": []
+    },
+    {
+      "name": "nscr",
+      "points": 91,
+      "prizes": []
+    },
+    {
+      "name": "ValleyFoxy",
+      "points": 50,
+      "prizes": []
+    },
+    {
+      "name": "Lilit_Asami",
+      "points": 30,
+      "prizes": []
+    },
+    {
+      "name": "GetzioNotts",
+      "points": 21,
+      "prizes": []
+    },
+    {
+      "name": "KawaiiBarbos",
+      "points": 10,
+      "prizes": []
+    },
+    {
+      "name": "Sprattus",
+      "points": 3,
+      "prizes": []
+    },
+    {
+      "name": "Котироель",
+      "points": 2,
+      "prizes": [
+        {
+          "name": "Значок на 5 стримов",
+          "date": "2026-10-02"
+        }
+      ]
+    }
+  ],
+  "prizes": [
+    {
+      "name": "Значок на 5 стримов",
+      "price": 3,
+      "quantity": "∞"
+    }
+  ],
+  "superprizes": []
+}
