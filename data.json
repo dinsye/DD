@@ -1,6 +1,6 @@
 {
-  "version": 1792004310,
-  "updated_at": "2026-10-14T21:58:30",
+  "version": 1792004331,
+  "updated_at": "2026-10-14T21:58:51",
   "donors": [
     {
       "name": "точно не даблкул",
@@ -10,11 +10,6 @@
     {
       "name": "nscr",
       "points": 101,
-      "prizes": []
-    },
-    {
-      "name": "ValleyFoxy",
-      "points": 55,
       "prizes": []
     },
     {
@@ -29,6 +24,11 @@
     },
     {
       "name": "KawaiiBarbos",
+      "points": 10,
+      "prizes": []
+    },
+    {
+      "name": "ValleyFoxy",
       "points": 10,
       "prizes": []
     },
