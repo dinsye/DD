@@ -1,6 +1,6 @@
 {
-  "version": 1792352293,
-  "updated_at": "2026-10-18T22:38:13",
+  "version": 1792352323,
+  "updated_at": "2026-10-18T22:38:43",
   "donors": [
     {
       "name": "точно не даблкул",
@@ -65,5 +65,13 @@
       "quantity": "∞"
     }
   ],
-  "superprizes": []
+  "superprizes": [
+    {
+      "name": "Выбор костюма для модельки",
+      "target": 40,
+      "collected": 0,
+      "status": "open",
+      "contributors": []
+    }
+  ]
 }
