@@ -1,10 +1,10 @@
 {
-  "version": 1793989638,
-  "updated_at": "2026-11-06T21:27:18",
+  "version": 1793989651,
+  "updated_at": "2026-11-06T21:27:31",
   "donors": [
     {
       "name": "точно не даблкул",
-      "points": 192,
+      "points": 200,
       "prizes": [
         {
           "name": "Каракуля",
@@ -52,12 +52,12 @@
       "prizes": []
     },
     {
-      "name": "KawaiiBarbos",
-      "points": 10,
+      "name": "ValleyFoxy",
+      "points": 13,
       "prizes": []
     },
     {
-      "name": "ValleyFoxy",
+      "name": "KawaiiBarbos",
       "points": 10,
       "prizes": []
     },
