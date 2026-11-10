@@ -1,6 +1,6 @@
 {
-  "version": 1794330678,
-  "updated_at": "2026-11-10T20:11:18",
+  "version": 1794330700,
+  "updated_at": "2026-11-10T20:11:40",
   "donors": [
     {
       "name": "точно не даблкул",
@@ -53,8 +53,17 @@
     },
     {
       "name": "ValleyFoxy",
-      "points": 14,
-      "prizes": []
+      "points": 12,
+      "prizes": [
+        {
+          "name": "10 меме коинов",
+          "date": "2026-11-10"
+        },
+        {
+          "name": "10 меме коинов",
+          "date": "2026-11-10"
+        }
+      ]
     },
     {
       "name": "KawaiiBarbos",
